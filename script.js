@@ -107,12 +107,12 @@ const articles = [
     { title: "Brand-Focused Flask Design and Visualization"},
     { title: "Design of the Axial Cooling Fan"},
     { title: "Meet Tally: How BJ’s Autonomous Aisle Robot Quietly Supports People"},
-    { title: "The Role of Collaborative Robots in Modern Industry"},
+    { title: "The Role of Collaborative Robots in Modern Industry"}
 ];
 
 const blogs = [
     { title: "Electric Vehicle Adoption in Urban Freight Systems" },
-    { title: "Performance Analysis of EV Batteries Using a Data-Driven Method" },
+    { title: "Performance Analysis of EV Batteries Using a Data-Driven Method" }
 ];
  
 const journals = [
