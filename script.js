@@ -113,17 +113,10 @@ const articles = [
 const blogs = [
     { title: "Electric Vehicle Adoption in Urban Freight Systems" },
     { title: "Performance Analysis of EV Batteries Using a Data-Driven Method" },
-    { title: "Engineering Design of a Tubular Go-Kart Chassis Using CAD" },
-    { title: "Designing a University at Buffalo-Inspired Robotic Arm"},
-    { title: "Design of a 9V Battery with Custom UB Branding"},
-    { title: "Brand-Focused Flask Design and Visualization"},
-    { title: "Design of the Axial Cooling Fan"},
-    { title: "Meet Tally: How BJ’s Autonomous Aisle Robot Quietly Supports People"},
-    { title: "The Role of Collaborative Robots in Modern Industry"},
 ];
  
 const journals = [
-    { title: "IEEE AI in Healthcare Systems" },
+    { title: "Performance Study of the Single Slope Solar Still by using Nano Disbanded Phase Change Material" },
     { title: "Sustainable Smart Manufacturing Review" }
 ];
  
